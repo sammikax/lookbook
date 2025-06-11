@@ -1,0 +1,8 @@
+{
+  "userRequired": "ユーザー名は必須です",
+  "passwordRequired": "パスワードは必須です",
+  "emailRequired": "メールアドレスは必須です",
+  "userNotFound": "ユーザーが見つかりません",
+  "userAlreadyRegistered": "ユーザーはすでに登録されています",
+  "successfullRegistration": "登録が完了しました！"
+}

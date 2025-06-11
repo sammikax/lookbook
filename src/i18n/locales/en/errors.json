@@ -1,0 +1,8 @@
+{
+    "userRequired": "the username is required",
+    "passwordRequired": "the Password is required",
+    "emailRequired" : "the email is required",
+    "userNotFound" : "User not found",
+    "userAlreadyRegistered" : "user already registered",
+    "successfullRegistration" : "Registration successful!"
+}

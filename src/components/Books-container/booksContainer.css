@@ -1,0 +1,17 @@
+ .books-container {
+   display: grid;
+   grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+   gap: 1rem;
+ }
+ .books-cover{
+  width: 170px;
+  height: auto;
+ }
+ .book-list-title {
+   font-size: 2rem;
+   color: var(--lightpink);
+   margin-bottom: 1rem;
+   text-align: center;
+   text-transform: uppercase;
+   font-weight: bolder;
+ }

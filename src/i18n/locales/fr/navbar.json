@@ -1,0 +1,14 @@
+{
+  "navbar": {
+    "home": "accueil",
+    "books": "livres",
+    "login": "connexion",
+    "profile": "profil",
+    "membership": "adhésion",
+    "language": "changer de langue",
+    "english": "anglais",
+    "spanish": "espagnol",
+    "french": "français",
+    "japanese": "japonais"
+  }
+}

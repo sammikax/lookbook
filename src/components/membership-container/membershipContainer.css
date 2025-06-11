@@ -1,0 +1,14 @@
+.memberContainer{
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+    margin-top: 100px; 
+    width: auto;
+}
+.card-plan{
+    background-color: transparent;
+    background-image: url(https://cdn.cosmos.so/f4aa2b25-c0b0-4257-aa3f-2cfaa2e882ad?format=jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

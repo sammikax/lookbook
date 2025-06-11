@@ -1,0 +1,9 @@
+@import url(../../App.css);
+.bg {
+    background-repeat: no-repeat;
+    padding-left: 65rem;
+    height: 100vh;
+    z-index: -10;
+    position: fixed;
+    opacity: 0.2;
+}

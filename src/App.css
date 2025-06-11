@@ -1,0 +1,12 @@
+html { font-size: 100%;}
+body{margin: 0; background-color: #F5F0EC;}
+:root{
+  --pink: #A15C61; 
+  --coffee: #9C7E69;
+  --bone: #F5F0EC;
+  --green: #95A78D;
+  --darkGreen: #525e4d;
+  --lightpink: #BD897E;
+  --peach: #D4A373;
+  --main-font:  "Montserrat", sans-serif;
+}

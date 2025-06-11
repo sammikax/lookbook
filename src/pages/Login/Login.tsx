@@ -1,0 +1,16 @@
+import NavBar from "../Navbar";
+import "./login.css";
+import letter from "./../../assets/letter.png"
+import LoginForm from "../../components/Login-form/LoginForm";
+
+export default function Login() {
+    return (
+        <>
+            <img src={letter} className="bg" alt="background-image" />
+            <NavBar />
+            <LoginForm />
+        </>
+    );
+};
+
+

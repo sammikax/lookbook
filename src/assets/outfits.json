@@ -1,0 +1,74 @@
+{
+  "f9qTi_TP1HwC": [
+    { "id": "afterDark", "url": "/assets/en/after-dark.jpg", "alt": "Outfit After Dark" }
+  ],
+  "VaXZzQEACAAJ": [
+    { "id": "almond", "url": "/assets/en/almond.jpg", "alt": "Outfit Almond" }
+  ],
+  "TbYXFZ7-HhgC": [
+    { "id": "1Q84 ", "url": "/assets/en/1Q84.jpg", "alt": "Outfit 1Q84" }
+  ],
+  "VHTnEAAAQBAJ": [
+    { "id": "NoLongerHuman", "url": "/assets/en/no-longer-human.jpg", "alt": "Outfit No Longer Human" }
+  ],
+  "hfAigqVXjAcC": [
+    { "id": "AristotleAndDante", "url": "/assets/en/aristotle-and-dante.jpg", "alt": "Outfit Aristotle and Dante" }
+  ],
+  "6-7-ikxwXZYC": [
+    { "id": "Metamorphosis", "url": "/assets/en/the-metamorphosis.jpg", "alt": "Outfit The metamorphosis" }
+  ],
+  "dT3OVymWkKkC": [
+    {
+      "id": "TokioBlues", "url": "/assets/es/tokio-blues.jpg", "alt": "Outfit Tokio Blues"
+    }
+  ],
+   "BhI1yQEACAAJ": [
+    {
+      "id": "NoLongerHumanEs", "url": "/assets/en/no-longer-human.jpg", "alt": "Outfit Indigno de Ser Humano"
+    }
+  ],
+  "0L7BEAAAQBAJ": [
+    {
+      "id": "Akelarre", "url": "/assets/es/akelarre.jpg", "alt": "Outfit Akelarre"
+    }
+  ],
+  "H8Y1EQAAQBAJ": [
+    {
+      "id": "1984", "url": "/assets/es/1984.jpg", "alt": "Outfit 1984"
+    }
+  ],
+  "i8nLDwAAQBAJ": [
+    {
+      "id": "Geometrics", "url": "/assets/ja/geometrics.jpg", "alt": "Outfit Geometrics"
+    }
+  ],
+  "TWeEzwEACAAJ": [
+    {
+      "id": "1984a", "url": "/assets/es/1984.jpg", "alt": "Outfit 1984"
+    }
+  ],
+  "RdIkvwEACAAJ": [
+    {
+      "id": "LePassanger", "url": "/assets/fr/LePassanger.jpg", "alt": "Outfit Le Passanger"
+    }
+  ],
+  "W8ZsBQAAQBAJ": [
+    {
+      "id": "JeanDeFlorette", "url": "/assets/fr/JeanDeFlorette.jpg", "alt": "Outfit Jean De Florette"
+    }
+  ],
+  "d2beEAAAQBAJ": [
+    {
+      "id": "LeRomandeTristanEtIseut", "url": "/assets/fr/LeRomandeTristanEtIseut.jpg", "alt": "Outfit Le Roman de Tristan Et Iseut"
+    }
+  ],
+  "ywX8bK8jZ0EC": [
+    {
+      "id": "Lepassagedelanuit", "url": "/assets/fr/Lepassagedelanuit.jpg", "alt": "Outfit Le Passange de la nuit"
+    }
+  ],
+  "defaultBookOutfits": [ 
+    { "id": "default1", "url": "https://cdn.cosmos.so/c2c16fd8-c203-4ba8-b0c6-826d8dce6164?format=jpeg", "alt": "Outfit por defecto 1" },
+    { "id": "default2", "url": "https://cdn.cosmos.so/5b7b07ba-2e4f-40cc-ba46-26e9005f958a?format=jpeg", "alt": "Outfit por defecto 2" }
+  ]
+}

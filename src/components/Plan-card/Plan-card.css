@@ -1,0 +1,11 @@
+.plan-price{
+    color: var(--pink);
+    font-size: 3vh;
+    padding: 3px;
+}
+.btn-join{
+    background-color: var(--darkGreen);
+    color: white;
+    text-transform: capitalize;
+    font-weight: bold;
+}
